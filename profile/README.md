@@ -12,6 +12,38 @@ ByteFlow Ltd is a modern technology and creative solutions company focused on he
 
 ---
 
+# 🌍 Connect With ByteFlow Ltd
+
+<p align="center">
+
+<a href="https://byte-flow-ltd.vercel.app/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/company/a-better-t-solutions/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61588130300960">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Umugwaneza3183">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/byteflow_ltd">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:byteflowltd9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 👨‍💻 About ByteFlow Ltd
 
 ByteFlow Ltd is a creative and technology-driven company specializing in modern digital solutions for businesses, organizations, and individuals.
@@ -134,38 +166,6 @@ Professional business documentation and office solutions.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 🌍 Connect With ByteFlow Ltd
-
-<p align="center">
-
-<a href="https://byte-flow-ltd.vercel.app/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/company/a-better-t-solutions/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61588130300960">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Umugwaneza3183">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/byteflow_ltd">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:byteflowltd9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---

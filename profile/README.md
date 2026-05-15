@@ -1,92 +1,194 @@
-# <p align="center">🚀 Byte Flow Ltd | Digital Excellence Hub</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1A94FF&center=true&vCenter=true&width=700&lines=ByteFlow+Ltd;Engineering+Digital+Success;Web+Development+%7C+Design+%7C+Innovation" />
+</h1>
+
+<h3 align="center">
+🚀 Engineering Digital Success
+</h3>
 
 <p align="center">
-  <img src="shields.io" alt="Byte Flow Banner" />
-</p>
-
-<h3 align="center">"Engineering Global Business Growth through Technology & Creative Strategy"</h3>
-
-<p align="center">
-  <strong>Byte Flow Ltd</strong> is an elite, multi-disciplinary digital transformation agency based in Kigali, Rwanda. We sit at the intersection of robust full-stack engineering and high-end visual design, building scalable architectures that help corporate brands dominate the global market.
-</p>
-
-<p align="center">
-  <a href="mailto:byteflowltd@gmail.com"><img src="shields.io" /></a>
-  <a href="https://www.linkedin.com/company/a-better-t-solutions/"><img src="shields.io" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61588130300960"><img src="shields.io" /></a>
-  <a href="x.com"><img src="shields.io" /></a>
+ByteFlow Ltd is a modern technology and creative solutions company focused on helping businesses grow through innovation, digital transformation, and smart technology solutions.
 </p>
 
 ---
 
-## 💎 Our Comprehensive Professional Services
+# 👨‍💻 About ByteFlow Ltd
 
-### 🌐 1. Web Development & Software Engineering
-We architect fast, production-ready, and highly secure web applications utilizing cutting-edge code stacks.
-*   **Custom Web Apps:** Bespoke systems built with granular precision using React, Next.js, and Node.js.
-*   **E-commerce Ecosystems:** Full-scale digital storefronts equipped with secure checkout pipelines (MoMo & Credit Cards).
-*   **Hosting & Infrastructure:** Managed cloud deployment structures prioritizing 99.9% uptime and low-latency servers.
-*   **System Maintenance:** Constant operational patches, vulnerability audits, and database optimization workflows.
+ByteFlow Ltd is a creative and technology-driven company specializing in modern digital solutions for businesses, organizations, and individuals.
 
-### 📈 2. SEO & Global Digital Visibility
-We engineer strategic organic search blueprints to propel platforms to the front pages of search queries.
-*   **Global Ranking Architecture:** Structuring sites to break international barriers and appear in global localized searches.
-*   **Targeted Search Traffic:** Converting casual search queries into hyper-specific, high-intent buyer actions.
-*   **Technical SEO Operations:** Speed optimization, schema mapping, crawl budget enhancement, and core web vitals fine-tuning.
+We combine innovation, creativity, and technical expertise to build high-quality digital products that help brands stand out and grow in the modern digital world.
 
-### 🎨 3. Graphic Design & Brand Identity
-We cultivate meaningful visual stories that demand attention and visually anchor company values.
-*   **Elite Brand Architecture:** Iconic corporate logo assets, scalable typography frameworks, and complete branding manuals.
-*   **Marketing & Collateral Assets:** Premium digital vectors, corporate pitch layouts, dynamic brochures, and print assets.
-*   **Interactive UI/UX Design:** High-fidelity application prototypes mapped intentionally for clean user experiences.
+### 💡 Our Mission
+To empower businesses and communities through innovative, reliable, and impactful digital solutions.
 
-### 🎥 4. Photography & Cinematic Media
-High-fidelity, state-of-the-art media capture designed to establish visual corporate narrative weight.
-*   **Corporate Portraiture:** Elite multi-lighting executive headshots and authentic facility/team workspace coverage.
-*   **Cinematic Commercial Production:** Scripted video ads, enterprise documentaries, and digital commercial campaigns.
-*   **Post-Production Suite:** Precision color grading, non-linear timing edits, high-fidelity sound layouts, and master tracking.
-
-### 📊 5. Corporate Microsoft Office Business Solutions
-Strategic data optimization matrices and automated document designs for flawless corporate workflows.
-*   **Advanced Excel & Data Analytics:** Automated complex tracking matrices, macros, programmatic financial modeling, and dashboards.
-*   **Professional Word Architecture:** Highly technical reporting schemas, formatted tender files, and official investment business plans.
-*   **High-Impact Keynote Decks:** Executive pitch design structures and clean venture capital presentation slides (PowerPoint).
-
-### 🚀 6. Digital Marketing & Content Strategy
-Comprehensive online reach structures focused on brand acquisition and audience scaling.
-*   **Social Architecture Management:** Managed daily platform grids (LinkedIn, Instagram) focused on consistent, active market presence.
-*   **Performance Advertising Metrics:** Targeted micro-demographic lead acquisition frameworks through Google Ads and Meta platforms.
-*   **Content Conversion Funnels:** Strategic digital assets (reels, micro-videos, professional scripts) deployed to drive organic revenue.
+### 🚀 Our Vision
+To become one of the leading technology and creative solution providers in Africa.
 
 ---
 
-## 🛠️ Technical Stack & Tools
+# 🚀 Our Professional Services
 
-<p align="left">
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
-  <img src="shields.io" />
+## 🌐 Web & Software Development
+
+We build modern, responsive, scalable, and high-performance digital platforms.
+
+| Service | Description |
+|---|---|
+| 💻 Full-Stack Web Development | Modern websites and scalable web applications |
+| 🎨 UI/UX Design | Beautiful and responsive user interfaces |
+| ⚙️ Backend Development | Secure and optimized backend systems |
+| 🗄 Database Management | Reliable and scalable database solutions |
+| 🌍 Website Deployment | Hosting, deployment, and maintenance |
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase" />
 </p>
 
 ---
 
-## 👥 Core Project Activity
+## 🎨 Creative Media & Branding
 
-### 🤝 Top Contributors
-This section automatically tracks the leading engineers driving the repositories behind Byte Flow's production engine.
+We help businesses build strong and attractive brand identities.
 
-<a href="github.com">
-  <img src="contrib.rocks" alt="Contributors" />
+| Service | Description |
+|---|---|
+| 🖌 Graphic Design | Logos, posters, flyers, business cards & branding |
+| 📸 Photography | Professional headshots, product & event photography |
+| 🎥 Videography | Video shooting, editing & promotional videos |
+| 📱 Social Media Design | Creative content for social platforms |
+
+<p>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Digital Marketing & Business Growth
+
+Helping businesses improve visibility and reach more customers online.
+
+| Service | Description |
+|---|---|
+| 🔍 SEO Optimization | Improve search engine visibility |
+| 📢 Digital Marketing | Online campaigns and promotions |
+| 📱 Content Creation | Professional marketing content |
+| 🚀 Digital Strategy | Technology-driven business growth |
+
+<p>
+<img src="https://skillicons.dev/icons?i=instagram,linkedin,figma" />
+</p>
+
+---
+
+## 📑 Professional Office Services
+
+Professional business documentation and office solutions.
+
+| Service | Description |
+|---|---|
+| 📝 Business Documents | Reports, proposals & business plans |
+| 📊 Data Management | Excel spreadsheets & bookkeeping |
+| 📽 Presentations | Modern PowerPoint presentations |
+| 📄 PDF Formatting | File conversion & document formatting |
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Word-185ABD?style=flat-square&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
+
+---
+
+# 🛠 Technologies We Use
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,c,cpp,kotlin" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap,redux" />
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash" />
+</p>
+
+---
+
+# 📊 Organization Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🌍 Connect With ByteFlow Ltd
+
+<p align="center">
+
+<a href="https://byte-flow-ltd.vercel.app/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/company/a-better-t-solutions/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61588130300960">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Umugwaneza3183">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/byteflow_ltd">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:byteflowltd9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 ---
+
+# 💡 Motto
+
 <p align="center">
-  <i>"Propelling scalable enterprises from Kigali to the global stage." 🇷🇼 ➔ 🌍</i>
+  <b>Engineering Digital Success 🚀</b>
+</p>
+
+---
+
+# ⭐ Why Choose ByteFlow Ltd?
+
+✅ Professional & Modern Solutions  
+✅ Creative & Innovative Team  
+✅ Reliable Technical Support  
+✅ Scalable Digital Systems  
+✅ Client-Centered Approach  
+✅ Passion For Technology & Growth
+
+---
+
+<p align="center">
+  <i>Building Smart Digital Experiences For The Future.</i>
 </p>

@@ -6,12 +6,6 @@
 🚀 Engineering Digital Success
 </h3>
 
-<div align="center">
-
-[![committers.top badge](https://user-badge.committers.top/rwanda_public/ByteFlow-Ltd.svg)](https://user-badge.committers.top/rwanda_public/ByteFlow-Ltd)
-
-</div>
-
 <p align="center">
 ByteFlow Ltd is a modern technology and creative solutions company focused on helping businesses grow through innovation, digital transformation, and smart technology solutions.
 </p>
